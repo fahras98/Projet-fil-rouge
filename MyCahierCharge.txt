@@ -1,0 +1,36 @@
+                 *Demander le véhicule pour le transport*
+
+--PRESENTATION :
+
+    Un site qui offre aux gens le service de demander à 
+  un chauffeur avec sa voiture dans le but de se déplacer 
+  dans la ville ou de faire un voyage dans une autre ville ... .
+
+--PROJET MODULES : 
+
+   _Comment fonctionne le site?
+
+Je vais exposer des étapes Pour profiter des services du site Web :
+1- ouvrir le site créer un nouveau compte .
+2- Connaître l'emplacement de la personne par localisez-le
+    en le marquant sur  maps.
+3- Choisissez le type de service que vous souhaitez utiliser
+
+      _Fonctionnalités disponibles sur le site ..
+  
+  ** Ses services sont fournis au même prix que les taxis 
+    réguliers, sinon moins.
+  ** Le client peut conduire lui-même s'il est titulaire d'un permis de conduire .......
+
+         _______________________________________________________
++Operating system :  Mozilla, Google Chrome, IE8, OPERA 
++Language         :  HTML, CSS, sass, vuejs, PHP,JAVASCRIPT
++Database 	  :  MYSQL||mongodb
+
+   
+
+   
+
+  
+
+
