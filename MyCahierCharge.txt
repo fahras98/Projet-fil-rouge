@@ -23,9 +23,9 @@ Je vais exposer des étapes Pour profiter des services du site Web :
   ** Le client peut conduire lui-même s'il est titulaire d'un permis de conduire .......
 
          _______________________________________________________
-+Operating system :  Mozilla, Google Chrome, IE8, OPERA 
-+Language         :  HTML, CSS, sass, vuejs, PHP,JAVASCRIPT
-+Database 	  :  MYSQL||mongodb
++Operating system :  Mozilla, Google Chrome 
++Language         :  HTML, CSS, sass, vuejs, PHP(laravel) ,JAVASCRIPT
++Database 	  :  MYSQL , PHPMYADMIN
 
    
 
